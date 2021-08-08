@@ -1,1 +1,3 @@
-servicioweb\Rest.class
+entities\Persona.class
+services\ServicioPersona.class
+web\Rest.class
